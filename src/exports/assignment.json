@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603309",
+ "ten": "NguyenHaiNam",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "nguyenhainam08012004@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000314154.jpg",
+  "000000433787.jpg",
+  "000000445187.jpg",
+  "000000508269.jpg",
+  "000000525227.jpg",
+  "000000078170.jpg",
+  "000000157271.jpg",
+  "000000375535.jpg",
+  "000000359340.jpg",
+  "000000461002.jpg",
+  "000000323705.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_257657.jpg",
+  "face_425647.jpg",
+  "face_415073.jpg",
+  "face_79591.jpg",
+  "face_342273.jpg",
+  "face_146049.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-NguyenHaiNam"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-NguyenHaiNam"
+  }
+ }
+}
